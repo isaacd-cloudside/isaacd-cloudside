@@ -14,10 +14,7 @@ To be learn :
 - LINUX ADMISTRATOR
 - EHICAL HACKER 👨🏻‍💻
 - WEB DESINER
-- ROBOTIC PROCESS AUTOMATION
-- AI,ML,DS
-- DATABASE ADMIN
-- UI/UX
+
 ```
 
 <h3 align="left">Languages and Tools: (still learning a lot)</h3>
