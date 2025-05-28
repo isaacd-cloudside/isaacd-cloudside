@@ -12,9 +12,6 @@ To be learn :
 - CYBER SECURITY
 - SRE
 - LINUX ADMISTRATOR
-- EHICAL HACKER 👨🏻‍💻
-- WEB DESINER
-
 ```
 
 <h3 align="left">Languages and Tools: (still learning a lot)</h3>
